@@ -1,22 +1,163 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Ian Fuenzalida<br>📚 Estudiante de Ingeniería Civil Industrial con Diploma en Computación<br>🎓 Estudio en la Pontificia Universidad Católica de Chile<br>💻 Mi major es Software<br>📊 Mi minor es data science<br><br>🔭 Actualmente estoy aprendiendo mobile mientras curso mi capstone<br>🚀 Me apasiona enfrentarme a nuevos desafíos e ir aprendiendo de estos para volverme un mejor profesional<br>
+# 👋 Hi, I'm Ian Fuenzalida
 
+Software developer with a background in Industrial Engineering, Software Engineering, and Data Science at Pontificia Universidad Católica de Chile.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ian-fuenzalida) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/IanZmen) 
+I focus on building digital products with an end-to-end engineering mindset: from understanding the problem and designing the architecture, to developing, deploying, operating, and continuously improving the solution.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IanZmen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IanZmen&theme=dark&hide_border=false)<br/>
+I enjoy working across the stack, connecting product thinking with software architecture, data-informed decisions, DevOps culture, and AI-assisted development workflows.
+
+## 🧠 Focus
+
+- Fullstack product development
+- Mobile applications
+- Backend architecture and APIs
+- Product lifecycle and maintainability
+- DevOps culture and continuous improvement
+- Data-informed problem solving
+- AI-assisted development workflows
+
+## 🛠 Tech Stack
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" width="32" />
+      <img src="https://skillicons.dev/icons?i=ts" width="32" />
+      <img src="https://skillicons.dev/icons?i=python" width="32" />
+      <img src="https://skillicons.dev/icons?i=ruby" width="32" />
+      <img src="https://skillicons.dev/icons?i=php" width="32" />
+      <img src="https://skillicons.dev/icons?i=c" width="32" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="32" />
+      <img src="https://skillicons.dev/icons?i=cs" width="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="32" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="32" />
+      <img src="https://skillicons.dev/icons?i=vue" width="32" />
+      <img src="https://skillicons.dev/icons?i=astro" width="32" />
+      <img src="https://skillicons.dev/icons?i=svelte" width="32" />
+      <img src="https://skillicons.dev/icons?i=angular" width="32" />
+      <img src="https://skillicons.dev/icons?i=vite" width="32" />
+      <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="32" />
+      <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="32" />
+      <img src="https://cdn.simpleicons.org/zustand/443E38" width="32" />
+      <img src="https://cdn.simpleicons.org/shadcnui/000000" width="32" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="32" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="32" />
+      <img src="https://skillicons.dev/icons?i=html" width="32" />
+      <img src="https://skillicons.dev/icons?i=css" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="32" />
+      <img src="https://skillicons.dev/icons?i=express" width="32" />
+      <img src="https://cdn.simpleicons.org/koa/33333D" width="32" />
+      <img src="https://skillicons.dev/icons?i=django" width="32" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="32" />
+      <img src="https://skillicons.dev/icons?i=rails" width="32" />
+      <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="32" />
+      <img src="https://skillicons.dev/icons?i=expo" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI / Data</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="32" />
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="32" />
+      <img src="https://cdn.simpleicons.org/openai/412991" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & ORMs</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" width="32" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="32" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="32" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="32" />
+      <img src="https://skillicons.dev/icons?i=prisma" width="32" />
+      <img src="https://cdn.simpleicons.org/sequelize/52B0E7" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Infra / DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" width="32" />
+      <img src="https://skillicons.dev/icons?i=github" width="32" />
+      <img src="https://skillicons.dev/icons?i=githubactions" width="32" />
+      <img src="https://skillicons.dev/icons?i=docker" width="32" />
+      <img src="https://skillicons.dev/icons?i=aws" width="32" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="32" />
+      <img src="https://skillicons.dev/icons?i=netlify" width="32" />
+      <img src="https://skillicons.dev/icons?i=nginx" width="32" />
+      <img src="https://cdn.simpleicons.org/render/46E3B7" width="32" />
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Testing / Quality</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jest" width="32" />
+      <img src="https://skillicons.dev/icons?i=vitest" width="32" />
+      <img src="https://skillicons.dev/icons?i=playwright" width="32" />
+      <img src="https://skillicons.dev/icons?i=eslint" width="32" />
+      <img src="https://skillicons.dev/icons?i=prettier" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Documentation & Design</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=md" width="32" />
+      <img src="https://cdn.simpleicons.org/latex/008080" width="32" />
+      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="32" />
+      <img src="https://skillicons.dev/icons?i=ai" width="32" />
+      <img src="https://skillicons.dev/icons?i=ps" width="32" />
+      <img src="https://cdn.simpleicons.org/sketchup/005F9E" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Payments / Integrations</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Transbank-E30613?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=IanZmen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=IanZmen&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IanZmen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ian-fuenzalida)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21955795/ianzmen)
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=IanZmen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IanFuenz) 
+## 💰 You can help me by Donating
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IanFuenz)
